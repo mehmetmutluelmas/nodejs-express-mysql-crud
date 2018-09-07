@@ -4,11 +4,14 @@ function db(sql){
   
 
     var connection = mysql.createConnection({
-      host     : '192.81.212.147',
-      user     : 'futt',
-      password : 'user_aAdD1234*',
-      database : 'futt'
+      host     : 'eu-cdbr-west-02.cleardb.net',
+      user     : 'b99fefe04be06a',
+      password : '08a08166',
+      database : 'heroku_8214a42e6c66ce8'
     });
+
+
+    
     
     
     const result = {

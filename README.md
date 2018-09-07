@@ -43,15 +43,15 @@ LIVE DEMO
 <td>Get a users.</td>
 </tr>
 <tr>
-<td>/api/users/update/:director_id</td>
+<td>/api/users/update/:usersId</td>
 <td><code>PUT</code></td>
 <td>{ usersFirstName: 'Mehmet Mutlu', usersLastName:'Elmas', authorizationsId:required }</td>
 <td>Update a users with new info.</td>
 </tr>
 <tr>
-<td>/api/users/delete/:users_id</td>
-<td><code>DELETE</code></td>
+<td>/api/users/delete/:usersId</td>
+<td><code>POST</code></td>
 <td>Empty</td>
-<td>Delete a director.</td>
+<td>Delete a users.</td>
 </tr>
 </tbody></table>

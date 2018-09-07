@@ -1,12 +1,5 @@
 Mysql Db Config<br>
 /helper/db.js
-
-  var connection = mysql.createConnection({
-    host     : 'eu-cdbr-west-02.cleardb.net',
-    user     : 'b99fefe04be06a',
-    password : '08a08166',
-    database : 'heroku_8214a42e6c66ce8'
-  });
   
 LIVE DEMO
 <br>

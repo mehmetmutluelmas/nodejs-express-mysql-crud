@@ -3,7 +3,7 @@ Mysql Db Config<br>
   
 LIVE DEMO
 <br>
-<a href="https://nodejs-express-mysql-crud.herokuapp.com/api" title="Open Application" target="_blank" >https://nodejs-express-mysql-crud.herokuapp.com/api</a>
+<a href="https://nodejs-express-mysql-crud.herokuapp.com/api" title="Open Application" target="_blank" >https://nodejs-express-mysql-crud.herokuapp.com/api/users</a>
 
 
 
